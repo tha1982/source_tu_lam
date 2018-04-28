@@ -31,3 +31,30 @@ js:
 </div>
   <button type="submit">Send</button>
 </form>
+
+<div class='noi-dung-form-blogdep'>
+    <iframe id='hidden_iframe' name='hidden_iframe' onload='if(submitted){};' style='display:none;'></iframe>
+    <div class='thong-tin-form-blogdep'>
+        <form action='https://docs.google.com/forms/d/11FxAlIUFWBVxwlrEdva8w0fdkHRGp6NwqLMuPs8KKfM/edit#responses' id='t_form_1' method='POST' target='hidden_iframe'>
+            <div class='truong-thong-tin-form'>
+                input type="text" class="quantumWizTextinputSimpleinputInput exportInput" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-label="Họ và tên" value="Untitled form" dir="auto" data-initial-dir="auto" data-initial-value="Untitled form"/>
+            </div>
+            <div class='truong-thong-tin-form'>
+                input type="text" class="quantumWizTextinputSimpleinputInput exportInput" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-label="địa chỉ email" disabled dir="auto" data-initial-dir="auto" data-initial-value=""/>
+            </div>
+            <div class='truong-thong-tin-form'>
+                input type="text" class="quantumWizTextinputSimpleinputInput exportInput" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-label="Nội dung" disabled dir="auto" data-initial-dir="auto" data-initial-value=""/>
+            </div>
+            </div>
+             <div class='nut-gui-form-di'>
+                <input class="button" id="ss-submit" name="submit" type='submit' value='TẢI VỀ'/>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">
+  $("#ss-submit").click(function () {
+       alert("Cảm ơn bạn đã gửi tin nhắn, tin nhắn đã được gửi đi");
+window.location.assign("/");
+   });
+ </script>
