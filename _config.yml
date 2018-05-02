@@ -23,7 +23,7 @@ description: Welcome to thachtha
 
 # List of links in the navigation bar
 navbar-links:
-nav-Search: "http://thachtha.me/search?keyword="
+  Search: "http://thachtha.me/search?keyword="
   Home: "http://thachtha.me"
   Contact: "contact"
   Resources:
