@@ -4,6 +4,7 @@ title: Key And Software
 subtitle: Nơi chia sẻ kiến thức bổ ích về lĩnh vực IT
 use-site-title: true
 bigimg: /img/blue.jpg
+css: "/css/index.css"
 ---
 
 <div class="list-filters">
