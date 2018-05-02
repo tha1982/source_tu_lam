@@ -12,13 +12,6 @@ bigimg: /img/blue.jpg
   <a href="/tags" class="list-filter">Index</a>
 </div>
 
-<div class="list-filters">
-  <a href="/" class="list-filter">All posts</a>
-  <span class="list-filter filter-selected">Most Popular</span>
-  <a href="/tutorials" class="list-filter">Tutorials</a>
-  <a href="/tags" class="list-filter">Index</a>
-</div>
-
 <div class="posts-list">
   {% for post in site.tags.popular %}
   <article>
