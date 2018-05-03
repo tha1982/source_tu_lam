@@ -3,10 +3,21 @@ layout: post
 title: Key và link download windows, office tất cả các phiên bản từ trang chủ Microsoft
 subtitle: Key và link download
 bigimg: /img/path.jpg
-tags: [key, soft]
+tags: [key, soft, popular]
+lastupdated: 2018-05-02
 ---
 
 **1. Key windows và office**
+
+cập nhật ngày 02/05/2018
+
+Office 2016 ProPlus Retail ONLINE
+
+Key: 6NFW9 - H8RWD - 4M38X - XQ6JJ - 78RQP
+
+Key: BBW3R - FNM6M - T8FKV - QJBFM - CWGK2
+
+Key: RBH2R - FNV8Y - CV4HT - 7DV8R - TVJ92
 
 cập nhật ngày 30/04
 
