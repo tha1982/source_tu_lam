@@ -4,6 +4,8 @@ title: Cách phòng ngừa virus lây nhiễm vào máy tính mà không cần s
 subtitle: phòng ngừa virus
 bigimg: /img/path.jpg
 tags: [giải pháp, popular]
+date: 2018-04-19 10:00:00 -0700
+lastupdated: 
 ---
 
 Máy tính bị nhiễm virus thường lây qua internet, usb. Hôm nay, tôi xin giới thiệu với các bạn vài phần mềm cần thiết để sử dụng an toàn khi truy cập internet.
