@@ -4,6 +4,8 @@ title: Giới thiệu phần mềm kiểm tra thông tin máy tính HWMonitor Pr
 subtitle: HWMonitor Pro
 bigimg: /img/path.jpg
 tags: [soft]
+date: 2018-04-19 10:00:00 -0700
+lastupdated: 
 ---
 
 <a href="https://imgur.com/uL44ts6"><img src="https://i.imgur.com/uL44ts6.png" title="source: imgur.com" /></a>
