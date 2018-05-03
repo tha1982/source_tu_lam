@@ -4,7 +4,6 @@ title: Key và link download windows, office tất cả các phiên bản từ t
 subtitle: Key và link download
 bigimg: /img/path.jpg
 tags: [key, soft, popular]
-permalink: /2018/04/19/win-office/
 date: 2018-04-19 10:00:00 -0700
 lastupdated: 2018-05-02
 ---
