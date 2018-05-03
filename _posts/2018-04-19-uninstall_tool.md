@@ -4,6 +4,8 @@ title: Công cụ nhỏ gọn gỡ bỏ phần mềm cài vào máy tốt nhất
 subtitle: Gỡ bỏ phần mềm
 bigimg: /img/path.jpg
 tags: [soft]
+date: 2018-04-19 10:00:00 -0700
+lastupdated: 
 ---
 
 link download [uninstall tool](https://app.box.com/s/a5zucn9blc6rbowuhqb7b8x0bu7uacjd)
