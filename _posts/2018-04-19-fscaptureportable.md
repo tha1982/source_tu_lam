@@ -4,6 +4,8 @@ title: Phần mềm chụp ảnh màn hình nhỏ gọn không cần cài đặt
 subtitle: chụp ảnh màn hình
 bigimg: /img/path.jpg
 tags: [soft]
+date: 2018-04-19 10:00:00 -0700
+lastupdated: 
 ---
 
 Đây là phần mềm được nhiều người sử dụng và ưa chuộng.
