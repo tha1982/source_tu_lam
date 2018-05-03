@@ -4,6 +4,8 @@ title: Hướng dẫn đăng ký office 365 dùng offline
 subtitle: office 365 offline
 bigimg: /img/path.jpg
 tags: [hướng dẫn, popular]
+date: 2018-04-19 10:00:00 -0700
+lastupdated: 
 ---
 
 **1.	Cách reg của trường california**
