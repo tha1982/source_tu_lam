@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Key và link download windows, office tất cả các phiên bản từ trang chủ Microsoft
+date: 2018-04-19 10:00:00 -0700
 subtitle: Key và link download
 bigimg: /img/path.jpg
-date: 2018-04-19 10:00:00 -0700
 tags: [key, soft, popular]
 lastupdated: 2018-05-02
 ---
@@ -18,7 +18,7 @@ Key: 6NFW9 - H8RWD - 4M38X - XQ6JJ - 78RQP
 
 Key: BBW3R - FNM6M - T8FKV - QJBFM - CWGK2
 
-Key: RBH2R - FNV8Y - CV4HT - 7DV8R - TVJ92
+Key: RBH2R - FNV8Y - CV4HT - 7DV8R - TVJ9
 
 cập nhật ngày 30/04
 
