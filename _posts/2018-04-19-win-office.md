@@ -6,6 +6,7 @@ subtitle: Key và link download
 bigimg: /img/path.jpg
 tags: [key, soft, popular]
 lastupdated: 2018-05-02
+carbonads-sm-horizontal: true
 ---
 
 **1. Key windows và office**
@@ -18,7 +19,7 @@ Key: 6NFW9 - H8RWD - 4M38X - XQ6JJ - 78RQP
 
 Key: BBW3R - FNM6M - T8FKV - QJBFM - CWGK2
 
-Key: RBH2R - FNV8Y - CV4HT - 7DV8R - TVJ9
+Key: RBH2R - FNV8Y - CV4HT - 7DV8R - TVJ92
 
 cập nhật ngày 30/04
 
