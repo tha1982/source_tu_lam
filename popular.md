@@ -8,8 +8,8 @@ css: "/css/index.css"
 ---
 
 <div class="list-filters">
-  <a href="/" class="list-filter filter-selected">All posts</a>
-  <a href="/popular" class="list-filter">Most Popular</a>
+  <a href="/" class="list-filter">All posts</a>
+  <span class="list-filter filter-selected">Most Popular</span>
   <a href="/tags" class="list-filter">Tags Index</a>
 </div>
 
