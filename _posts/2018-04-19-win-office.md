@@ -6,7 +6,7 @@ subtitle: Key và link download
 bigimg: /img/path.jpg
 tags: [key, soft, popular]
 lastupdated: 2018-05-02
-carbonads-sm-horizontal: true
+permalink: /2018/04/19/win-office/
 ---
 
 **1. Key windows và office**
