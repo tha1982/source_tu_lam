@@ -103,4 +103,4 @@ Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-comments" data-href="https://github.com/tha1982/tha1982.github.io/edit/master/_posts/2018-04-19-IDM.md" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://github.com/tha1982/tha1982.github.io/edit/master/_posts/2018-05-05-cai-office-365-offline.md" data-numposts="5"></div>
