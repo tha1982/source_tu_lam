@@ -48,7 +48,7 @@ Link download
 
 Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 
-	<Configuration>
+`<Configuration>`
 
       <Add OfficeClientEdition="64">
 
@@ -60,39 +60,37 @@ Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 
 		<ExcludeApp ID="Access" />
 
-        		<ExcludeApp ID="Lync" />
+        	<ExcludeApp ID="Lync" />
 
-        		<ExcludeApp ID="OneNote" />
+        	<ExcludeApp ID="OneNote" />
 
-        		<ExcludeApp ID="Outlook" />
+        	<ExcludeApp ID="Outlook" />
 
-        		<ExcludeApp ID="Project" />
+        	<ExcludeApp ID="Project" />
 
-        		<ExcludeApp ID="Publisher" />
+        	<ExcludeApp ID="Publisher" />
 
        		<ExcludeApp ID="SharePointDesigner" />
 
-         		<ExcludeApp ID="Visio" />
+         	<ExcludeApp ID="Visio" />
 
 		<ExcludeApp ID="Powerpoint" />
 
 		<ExcludeApp ID="Onedrive" />
 
-         		<ExcludeApp ID="Groove" />
+         	<ExcludeApp ID="Groove" />
 
         </Product>
 
       </Add>
 
-	<Updates Enabled="TRUE" />
+`<Updates Enabled="TRUE" />`
 
-	<Display Level="Full" AcceptEULA="TRUE" />
+`<Display Level="Full" AcceptEULA="TRUE" />`
 
-	<Property Name="AUTOACTIVATE" Value="1" />
+`<Property Name="AUTOACTIVATE" Value="1" />`
 
-	</Configuration>
-
-**dùng ~ trước và sau đoạn code** <Configuration>
+`</Configuration>`
 
 Ở đây bạn chỉ cần chú ý `<ExcludeApp ID="Groove" />` nghĩa là ta sẽ không cài Skype for Business. Nếu bạn muốn để lại Skype for Business thì bỏ dòng `<ExcludeApp ID="Groove" />`. Tương tự cho Access, Infopath .... Chỉnh sủa xong thì chỉ việc lưu lại thôi.
 
