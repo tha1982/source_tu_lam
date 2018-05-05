@@ -8,7 +8,7 @@ date: 2018-05-05 10:00:00 -0700
 lastupdated: 
 ---
 
-a.	Ở bài viết này mình chỉ hướng dẫn cài đặt 2 ứng dụng là: word và excel. Bạn nào có nhu cầu cài đặt thêm ứng dụng thì xem ở mục (b) tùy chọn cài đặt office 365
+**a. Ở bài viết này mình chỉ hướng dẫn cài đặt 2 ứng dụng là: word và excel. Bạn nào có nhu cầu cài đặt thêm ứng dụng thì xem ở mục (b) tùy chọn cài đặt office 365**
 
 Tạo thư mục office365 ở ổ C:\office365 và vào [download software Microsoft](https://tb.rg-adguard.net/index.php) tải file O365ProPlusRetail.img rồi giải nén file này bằng winrar (chỉ giải nén thư mục office) vào thư mục C:\Office365
 
@@ -44,7 +44,7 @@ Link download
 
 [configuration 64 bit](https://app.box.com/s/2ud4h3m0utv34gr3ftee8pphquixazta)
 
-b.	Tùy chọn cài đặt office 365
+**b. Tùy chọn cài đặt office 365**
 
 Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 
