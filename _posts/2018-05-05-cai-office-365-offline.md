@@ -93,3 +93,14 @@ Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 </Configuration>
 
 Ở đây bạn chỉ cần chú ý <ExcludeApp ID="Groove" />, nghĩa là ta sẽ không cài Skype for Business. Nếu bạn muốn để lại Skype for Business thì bỏ dòng <ExcludeApp ID="Groove" />. Tương tự cho Access, Infopath .... Chỉnh sủa xong thì chỉ việc lưu lại thôi.
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.12';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-comments" data-href="https://github.com/tha1982/tha1982.github.io/edit/master/_posts/2018-04-19-IDM.md" data-numposts="5"></div>
