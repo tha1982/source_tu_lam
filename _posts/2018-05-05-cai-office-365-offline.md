@@ -49,7 +49,7 @@ Link download
 Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 
 `<Configuration>`
-
+      
       <Add OfficeClientEdition="64">
 
         <Product ID="O365ProPlusRetail">
