@@ -94,7 +94,7 @@ Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 
 **dùng ~ trước và sau đoạn code** <Configuration>
 
-Ở đây bạn chỉ cần chú ý ~ <ExcludeApp ID="Groove" /> ~ nghĩa là ta sẽ không cài Skype for Business. Nếu bạn muốn để lại Skype for Business thì bỏ dòng <ExcludeApp ID="Groove" />. Tương tự cho Access, Infopath .... Chỉnh sủa xong thì chỉ việc lưu lại thôi.
+Ở đây bạn chỉ cần chú ý `<ExcludeApp ID="Groove" />` nghĩa là ta sẽ không cài Skype for Business. Nếu bạn muốn để lại Skype for Business thì bỏ dòng `<ExcludeApp ID="Groove" />`. Tương tự cho Access, Infopath .... Chỉnh sủa xong thì chỉ việc lưu lại thôi.
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
