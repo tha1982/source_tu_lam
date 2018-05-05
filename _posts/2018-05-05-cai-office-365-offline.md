@@ -48,7 +48,6 @@ Link download
 
 Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 
-~
 <Configuration>
 
       <Add OfficeClientEdition="64">
@@ -92,7 +91,6 @@ Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 <Property Name="AUTOACTIVATE" Value="1" />
 
 </Configuration>
-~
 
 Ở đây bạn chỉ cần chú ý <ExcludeApp ID="Groove" />, nghĩa là ta sẽ không cài Skype for Business. Nếu bạn muốn để lại Skype for Business thì bỏ dòng <ExcludeApp ID="Groove" />. Tương tự cho Access, Infopath .... Chỉnh sủa xong thì chỉ việc lưu lại thôi.
 
