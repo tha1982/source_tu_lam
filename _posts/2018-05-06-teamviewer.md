@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hướng dẫn khắc phục lỗi giới hạn 5 phút khi sử dụng teamviewer
-subtitle: teamviewer
+subtitle: Reset ID teamviewer
 bigimg: /img/path.jpg
 tags: [hướng dẫn, software]
 date: 2018-05-06 10:00:00 -0700
