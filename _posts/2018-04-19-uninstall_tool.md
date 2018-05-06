@@ -3,7 +3,7 @@ layout: post
 title: Công cụ nhỏ gọn gỡ bỏ phần mềm cài vào máy tốt nhất uninstall tool
 subtitle: Gỡ bỏ phần mềm
 bigimg: /img/path.jpg
-tags: [soft]
+tags: [software]
 date: 2018-04-19 10:00:00 -0700
 lastupdated: 
 ---
