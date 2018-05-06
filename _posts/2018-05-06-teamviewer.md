@@ -38,6 +38,8 @@ Nếu phần mềm yêu cầu trỏ đường dẫn tới vị trí cài đặt 
 
 Xong các bạn đợi quá trình reset ID hoàn tất và chọn End
 
+Mẹo: Các bạn nên copy tool reset ID teamviewer vào thư mục cài đặt để sau này hết hạn thì reset nhanh hơn (không cần chọn đường dẫn)
+
 Vậy là các bạn đã reset ID teamviewer 13 thành công và sử dụng thoải mái không còn bị giới hạn 5 phút khi hết hạn dùng thử nữa. Lưu ý sau 1 thời gian sử dụng phần mềm sẽ báo hết hạn dùng thử thì các bạn cứ chạy lại tool như trên để reset ID nhé. Chúc các bạn thành công
 
 <div id="fb-root"></div>
