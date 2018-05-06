@@ -3,7 +3,7 @@ layout: post
 title: Phần mềm nghe nhạc xem phim Media Player Classic (MPC)
 subtitle: Media Player Classic (MPC)
 bigimg: /img/path.jpg
-tags: [software]
+tags: [soft]
 date: 2018-05-06 10:00:00 -0700
 lastupdated: 
 ---
