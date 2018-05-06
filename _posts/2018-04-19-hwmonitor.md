@@ -3,7 +3,7 @@ layout: post
 title: Giới thiệu phần mềm kiểm tra thông tin máy tính HWMonitor Pro 1.32 Full
 subtitle: HWMonitor Pro
 bigimg: /img/path.jpg
-tags: [soft]
+tags: [software]
 date: 2018-04-19 10:00:00 -0700
 lastupdated: 
 ---
