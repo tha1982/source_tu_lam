@@ -3,7 +3,7 @@ layout: post
 title: Key và link download windows, office tất cả các phiên bản từ trang chủ Microsoft
 subtitle: Key và link download
 bigimg: /img/path.jpg
-tags: [key, soft, popular]
+tags: [key, software, popular]
 date: 2018-04-19 10:00:00 -0700
 lastupdated: 2018-05-04
 ---
