@@ -3,7 +3,7 @@ layout: post
 title: Phần mềm chụp ảnh màn hình nhỏ gọn không cần cài đặt FScapture portable
 subtitle: chụp ảnh màn hình
 bigimg: /img/path.jpg
-tags: [soft]
+tags: [software]
 date: 2018-04-19 10:00:00 -0700
 lastupdated: 
 ---
