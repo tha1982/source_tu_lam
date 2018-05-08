@@ -48,7 +48,7 @@ Link download
 
 Bạn dùng notepad mở file configuration.xml và copy đoạn code sau:
 
-`<Configuration>`
+~~~<Configuration>~~~
       
       <Add OfficeClientEdition="64">
 
