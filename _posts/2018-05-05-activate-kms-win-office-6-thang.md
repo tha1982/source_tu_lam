@@ -22,6 +22,8 @@ Trong đó:
 
 + skms.ddns.net là một máy chủ KMS, trường hợp bạn sử dụng máy chủ trên bị lỗi thì thay bằng một máy chủ bên dưới này nhé (Mình sẽ cập nhật liên tục):
 
+kms.lotro.cc
+
 kms.aglc.cc
 
 kms.didichuxing.com
@@ -137,6 +139,8 @@ Word 2016:                                     WXY84-JN2Q9-RBCCQ-3Q3J3-3PFJ6
 Sau khi chạy xong báo active thành công, hãy kiểm tra lại Office 2016 đã có bản quyền hay chưa.
 
 + kms.digiboy.ir là máy chủ KMS, có thể trong thời gian tới các bạn sử dụng máy chủ này thì máy chủ đã chết, vì thế các bạn có thể sử dụng các máy chủ KMS thay thế bên dưới này nhé:
+
+kms.lotro.cc
 
 kms.aglc.cc
 
