@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Hướng dẫn hack registry IDM
-subtitle: IDM
+title: Nạp license digital for win 10 all version with key die (no crack)
+subtitle: digital win 10
 bigimg: /img/path.jpg
 tags: [hướng dẫn, popular]
 date: 2018-05-23 10:00:00 -0700
 lastupdated: 
 ---
-
-Nạp license digital for win 10 all version with key die (no crack)
 
 Activate DiGitail license win 10 (KTS) kích hoạt 1 lần vĩnh viễn theo máy.
 
