@@ -4,7 +4,7 @@ title: Hướng dẫn hack registry IDM
 subtitle: IDM
 bigimg: /img/path.jpg
 tags: [hướng dẫn, popular]
-date: 2018-04-19 10:00:00 -0700
+date: 2018-05-23 10:00:00 -0700
 lastupdated: 
 ---
 
@@ -202,4 +202,4 @@ xem kết quả ảnh 2 & 3
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-comments" data-href="https://github.com/tha1982/tha1982.github.io/edit/master/_posts/2018-04-19-IDM.md" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://github.com/tha1982/tha1982.github.io/edit/master/_posts/2018-05-23-license-digital-win10.md" data-numposts="5"></div>
