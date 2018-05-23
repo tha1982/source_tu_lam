@@ -40,9 +40,9 @@ echo
 
 kế tiếp tải Tools về giãi nén, chạy Tools có thông báo chọn OK, chọn PATCH để Tools thực thi kích hoạt chờ vài phút xong.
 
-link dowload Tools https://www.fshare.vn/file/A12X84J4PVZ3
+link dowload Tools [fshare](https://www.fshare.vn/file/A12X84J4PVZ3)
 
-Hoặc https://app.box.com/s/9uzoetp1j9exwoefd8levkd11hdu9pqr
+Hoặc [box.com](https://app.box.com/s/9uzoetp1j9exwoefd8levkd11hdu9pqr)
 
 Tool này tỷ lệ phát hiện virus là 4/65
 
