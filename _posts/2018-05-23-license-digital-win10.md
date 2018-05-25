@@ -40,7 +40,7 @@ echo
 
 kế tiếp tải Tools về giãi nén, chạy Tools có thông báo chọn OK, chọn PATCH để Tools thực thi kích hoạt chờ vài phút xong.
 
-link dowload Tools [fshare](https://www.fshare.vn/file/A12X84J4PVZ3)
+link dowload Tools [fshare](https://www.fshare.vn/folder/2SL9AETOP7JX)
 
 Hoặc [box.com](https://app.box.com/s/9uzoetp1j9exwoefd8levkd11hdu9pqr)
 
@@ -184,6 +184,16 @@ clipup -v -o -altto c:\
 cscript //nologo %windir%\system32\slmgr.vbs –ato
 
 echo
+
+ Nếu Activation failed:
+ 
+✔ Hãy chắc chắn internet của bạn đang hoạt động tốt
+
+✔ Đảm bảo rằng bạn không chạy bất kỳ VPN nào
+
+✔ Đảm bảo không có chương trình chặn windows update nào được sử dụng (Lỗi: 0x80070422 Dịch vụ không thể khởi động được, vì dịch vụ này bị vô hiệu hóa hoặc do dịch vụ không có thiết bị được bật nào liên kết với nó (SWbemObjectEx))
+
+✔ Đảm bảo anti virus và firewalls không chặn tool (Mã lỗi: 0x80070422)
 
 xem kết quả ảnh 2 & 3
 
